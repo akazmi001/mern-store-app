@@ -70,7 +70,7 @@ A full-featured **E-Commerce Web Application** built using the **MERN Stack (Mon
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/akazmi001/mern-store-app/tree/main
 ```
 
 ### 2️⃣ Install dependencies
@@ -133,4 +133,4 @@ Contributions are welcome! Feel free to fork and submit a PR.
 ## 👨‍💻 Author
 
 Mohammad Anas
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/akazmi001/mern-store-app/tree/main
