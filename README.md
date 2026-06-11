@@ -1,4 +1,4 @@
-# 🛒 MERN E-Commerce Store
+# 🛒 MERN-MART
 
 A full-featured **E-Commerce Web Application** built using the **MERN Stack (MongoDB, Express, React, Node.js)** with authentication, admin panel, and payment-ready structure.
 
