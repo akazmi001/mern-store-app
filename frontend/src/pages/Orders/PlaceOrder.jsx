@@ -7,7 +7,7 @@ import ProgressSteps from "../../components/ProgressSteps";
 import Loader from "../../components/Loader";
 import { useCreateOrderMutation } from "../../redux/api/orderApiSlice";
 import { clearCartItems } from "../../redux/features/cart/cartSlice";
-
+import { getImageUrl } from "../utils/imageHelper";
 const PlaceOrder = () => {
   const navigate = useNavigate();
 
@@ -66,7 +66,7 @@ const PlaceOrder = () => {
                   <tr key={index}>
                     <td className="p-2">
                       <img
-                        src={item.image}
+                        src={getImageUrl(item.image)}
                         alt={item.name}
                         className="w-16 h-16 object-cover"
                       />
