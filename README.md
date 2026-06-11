@@ -6,7 +6,7 @@ A full-featured **E-Commerce Web Application** built using the **MERN Stack (Mon
 
 ## 🚀 Live Demo
 
-🔗 Coming Soon...
+🔗https://mern-store-app-one.vercel.app/
 
 ---
 
@@ -14,23 +14,8 @@ A full-featured **E-Commerce Web Application** built using the **MERN Stack (Mon
 
 ### 🏠 Home Page
 
-![Home](./screenshots/home.png)
-
-### 🛍️ Product Page
-
-![Product](./screenshots/product.png)
-
-### 🛒 Cart Page
-
-![Cart](./screenshots/cart.png)
-
-### 🔐 Login Page
-
-![Login](./screenshots/login.png)
-
-### 👑 Admin Dashboard
-
-![Admin](./screenshots/admin.png)
+![Home](<img width="945" height="401" alt="Home-MERNmart" src="https://github.com/user-attachments/assets/9b609b52-f2e8-45db-8533-c1928cdf415b" />
+)
 
 
 ## ⚙️ Tech Stack
