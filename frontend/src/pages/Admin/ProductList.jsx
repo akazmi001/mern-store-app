@@ -28,15 +28,27 @@ const ProductList = () => {
     e.preventDefault();
 
     try {
-      const productData = new FormData();
-      productData.append("image", image);
-      productData.append("name", name);
-      productData.append("description", description);
-      productData.append("price", price);
-      productData.append("category", category);
-      productData.append("quantity", quantity);
-      productData.append("brand", brand);
-      productData.append("countInStock", stock);
+      // const productData = new FormData();
+      // productData.append("image", image);
+      // productData.append("name", name);
+      // productData.append("description", description);
+      // productData.append("price", price);
+      // productData.append("category", category);
+      // productData.append("quantity", quantity);
+      // productData.append("brand", brand);
+      // productData.append("countInStock", stock);
+
+      // const { data } = await createProduct(productData);
+      const productData = {
+        name,
+        price,
+        image, // already "/uploads/xyz.jpg"
+        brand,
+        category,
+        countInStock: stock,
+        quantity,
+        description,
+      };
 
       const { data } = await createProduct(productData);
 
