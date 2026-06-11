@@ -2,15 +2,12 @@
 
 A full-featured **E-Commerce Web Application** built using the **MERN Stack (MongoDB, Express, React, Node.js)** with authentication, admin panel, and payment-ready structure.
 
----
 
 ## 🚀 Live Demo
 
 🔗https://mern-store-app-one.vercel.app/
 
 ---
-
-## 📸 Screenshots
 
 ### 🏠 Home Page
 
@@ -25,8 +22,6 @@ A full-featured **E-Commerce Web Application** built using the **MERN Stack (Mon
 * **Authentication:** JWT (JSON Web Tokens)
 * **State Management:** Redux
 
----
-
 ## 🔥 Features
 
 * 👤 User Authentication (Login / Register / Logout)
@@ -37,8 +32,6 @@ A full-featured **E-Commerce Web Application** built using the **MERN Stack (Mon
 * 👑 Admin Panel
 * 🧾 User Profile Management
 
----
-
 ## 🧠 What I Learned
 
 * Building scalable backend with Express
@@ -47,7 +40,6 @@ A full-featured **E-Commerce Web Application** built using the **MERN Stack (Mon
 * Managing global state using Redux
 * Structuring a full-stack MERN project
 
----
 
 ## 🛠️ Installation
 
@@ -87,7 +79,6 @@ npm run dev
 npm start
 ```
 
----
 
 ## 📁 Folder Structure
 
@@ -96,16 +87,12 @@ npm start
 /backend
 ```
 
----
+## 🔮 Future Improvements
 
-## 🚀 Future Improvements
+* Implement OAuth authentication (Google/GitHub login)
+* Add real-time order tracking
+* Integrate ML-based product recommendation system
 
-* 💳 Payment Integration (Stripe)
-* 📊 Analytics Dashboard
-* 🔄 Refresh Token Auth
-* ⚡ Performance Optimization
-
----
 
 ## 🤝 Contributing
 
@@ -117,4 +104,4 @@ Contributions are welcome! Feel free to fork and submit a PR.
 ## 👨‍💻 Author
 
 Mohammad Anas
-GitHub: https://github.com/akazmi001/mern-store-app/tree/main
+GitHub: https://github.com/akazmi001/mern-mart
